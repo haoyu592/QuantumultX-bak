@@ -162,6 +162,7 @@
       "config": "30 7 * * * https://gist.githubusercontent.com/Sliverkiss/991a81be1fc8cf2a1937432be68f5521/raw/xxyx.js, tag=晓晓霸王餐, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/xxyx.png, enabled=true",
       "addons": "https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/xxyx.conf, tag=晓晓霸王餐获取token"
     },
+    {
       "config": "8 0 * * * https://gist.githubusercontent.com/Sliverkiss/6d15658e313eee254a55d2b97933587c/raw/jsb.js, tag=杰士邦安心福利社, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/jsb.png, enabled=true",
       "addons": "https://gist.githubusercontent.com/Sliverkiss/6d15658e313eee254a55d2b97933587c/raw/jsb.js, tag=杰士邦安心福利社获取token, opt-parser=true"
     },
