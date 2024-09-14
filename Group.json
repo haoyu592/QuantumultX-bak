@@ -22,7 +22,6 @@
       "config": "8 0 * * * https://gist.githubusercontent.com/Sliverkiss/2e2093bfd5f524d58c8e90fed9beacfd/raw/e399523e428f3c173ec4b95c892725006c3128ff/adjd.js, tag=亚朵酒店签到, img-url=https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Adjd.png, enabled=false",
       "addons": "https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/adjd.conf, tag=亚朵酒店获取token"
     },
-
     {
       "config": "34 10 * * * https://raw.githubusercontent.com/MCdasheng/QuantumultX/main/Scripts/myScripts/qidian/qidian.js, img-url=https://raw.githubusercontent.com/chxm1023/Script_X/main/icon/qidian.png, tag=起点读书, enabled=false",
       "addons": "https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/qdds.conf, tag=起点读书获取token"
@@ -82,7 +81,6 @@
     {
       "config": "0 2 * * * https://github.com/sub-store-org/Sub-Store/releases/latest/download/cron-sync-artifacts.min.js, tag=Sub-Store, img-url=https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/SubStore.png, enabled=true"
     },
-
     {
       "config": "0 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js, tag=美团签到, img-url=https://qxnav.com/rules/QuantumultX/img/meituan.png, enabled=true",
       "addons": "https://raw.githubusercontent.com/JoJoJotarou/myScript/master/script/meituan/rewrite/meituan.checkin.conf, tag=美团签到获取token"
@@ -163,7 +161,7 @@
       "addons": "https://gist.githubusercontent.com/Sliverkiss/b564306f40741c8d549409fbe6c2aae9/raw/xxyx.conf, tag=晓晓霸王餐获取token"
     },
     {
-      "config": "8 0 * * * https://gist.githubusercontent.com/Sliverkiss/6d15658e313eee254a55d2b97933587c/raw/jsb.js, tag=杰士邦安心福利社, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/jsb.png, enabled=true",
+	"config": "8 0 * * * https://gist.githubusercontent.com/Sliverkiss/6d15658e313eee254a55d2b97933587c/raw/jsb.js, tag=杰士邦安心福利社, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/jsb.png, enabled=true",
       "addons": "https://gist.githubusercontent.com/Sliverkiss/6d15658e313eee254a55d2b97933587c/raw/jsb.js, tag=杰士邦安心福利社获取token, opt-parser=true"
     },
     {
@@ -196,31 +194,30 @@
       "config": "30 8 * * * https://raw.githubusercontent.com/yangchong99/QuantumultX/main/script/sfsy.js, tag=顺丰速运, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/sfsy.png, enabled=true",
       "addons": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cookie/get_cookie.js, tag=顺丰速运获取token, opt-parser=true"
     },
-	 {
+	{
       "config": "1 0,9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到 , img-url=https://raw.githubusercontent.com/Semporia/Scripts/main/API-Icon/JD_DailyBonus.png, enabled=true",
       "addons": "https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=获取京东Cookie, opt-parser=true"
 
 	},
-	 {
+	{
       "config": "5 8 * * * 	https://gist.githubusercontent.com/Sliverkiss/f23891426d8b5a7603851d0496e94ab3/raw/ysfV2.js, tag=云闪付签到 , img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png, enabled=true",
       "addons": "https://gist.githubusercontent.com/Sliverkiss/f23891426d8b5a7603851d0496e94ab3/raw/ysfV2.js, tag=获取云闪付Cookie, opt-parser=true"
 	},
-	 {
+	{
       "config": "5 8 * * * 	https://raw.githubusercontent.com/TY1ung/QuantumultX/04e8b55c2ca4d967eb1da8000a5703a768140045/Scripts/UnionPay.js, tag=云闪付签到 , img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png, enabled=true",
       "addons": "https://raw.githubusercontent.com/yangwudong/Quantumult-X/main/Scripts/unipay.js, tag=获取云闪付Cookie, opt-parser=true"
 	},
-	 {
+	{
       "config": "5 8 * * * 	https://raw.githubusercontent.com/yidasanqian/script/master/check_in/unipay/unipay.js, tag=云闪付签到 , img-url=https://raw.githubusercontent.com/lcmigg/Surge/master/img/unionpay.png, enabled=true",
       "addons": "https://raw.githubusercontent.com/yangwudong/Quantumult-X/main/Scripts/unipay.js, tag=获取云闪付Cookie, opt-parser=true"
-	},
-	
-	 {
+	},	
+	{
       "config": "8,22 * * * https://raw.githubusercontent.com/yyn618/QuantumultX-Script/master/Task/JD/jd_bean_change.js, tag=京豆变动通知, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, enabled=true"
 	},
 	{
       "config": "https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_shop.png, enabled=true"
 	},
-	 {
+	{
       "config": "0 8 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/github.js, tag=GitHub, img-url=https://raw.githubusercontent.com/Orz-3/task/master/github.png,enabled=true"
 	},
 	{
@@ -232,7 +229,7 @@
 	{
       "config": "0-23/1 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/testflight.js, tag=testflight公测监控, img-url=https://raw.githubusercontent.com/Orz-3/task/master/testflight.png, enabled=false"
 	},	
-     {
+    {
       "config": "3 0 * * * https://raw.githubusercontent.com/wf021325/qx/master/task/csvw.js, tag=上汽大众, img-url=https://raw.githubusercontent.com/sliverkiss/QuantumultX/main/icon/sqdz.png, enabled=true",
       "addons": "https://raw.githubusercontent.com/wf021325/qx/master/task/csvw.js, tag=上汽大众获取token, opt-parser=true"
     }, {
